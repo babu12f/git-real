@@ -1,5 +1,5 @@
 <?php 
 
-echo "new pay";
+echo "new pay Edited";
 
  ?>
